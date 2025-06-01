@@ -1,13 +1,12 @@
 ## 👨‍💻 Developer | Wonjun Hong
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/price126/price126/main/profile-summary-card-output/algolia/0-profile-details.svg" height="215" />
-</p>
-
-<p align="center" style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+</div>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hwjun12" height="200" />
   <img src="https://raw.githubusercontent.com/price126/price126/main/profile-summary-card-output/algolia/2-most-commit-language.svg" />
-</p>
+</div>
 
 <br/>
 
